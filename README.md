@@ -1,2 +1,2 @@
 # Self-Driving-Car
-A simple Self Driving Car created in Python
+A simple Self Driving Car created using Behavioral Cloning
