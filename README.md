@@ -140,23 +140,23 @@ The following is the example transformations:
 
 **Center Image**
 
-![Center Image](images/center.png)
+![Center Image](assets/center.png)
 
 **Left Image**
 
-![Left Image](images/left.png)
+![Left Image](assets/left.png)
 
 **Right Image**
 
-![Right Image](images/right.png)
+![Right Image](assets/right.png)
 
 **Flipped Image**
 
-![Flipped Image](images/flip.png)
+![Flipped Image](assets/flip.png)
 
 **Translated Image**
 
-![Translated Image](images/trans.png)
+![Translated Image](assets/trans.png)
 
 
 ## Training, Validation and Test
