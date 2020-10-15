@@ -19,12 +19,8 @@ As image processing is involved, the model is using convolutional layers for aut
 
 - model.py The script used to create and train the model.
 - drive.py The script to drive the car. You can feel free to resubmit the original drive.py or make modifications and submit your modified version.
-- utils.py The script to provide useful functionalities (i.e. image preprocessing and augumentation)
 - model.h5 The model weights.
-- environments.yml conda environment (Use TensorFlow without GPU)
-- environments-gpu.yml conda environment (Use TensorFlow with GPU)
 
-Note: drive.py is originally from [the Udacity Behavioral Cloning project GitHub](https://github.com/udacity/CarND-Behavioral-Cloning-P3) but it has been modified to control the throttle.
 
 ## Quick Start
 
